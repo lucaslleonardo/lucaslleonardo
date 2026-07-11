@@ -41,7 +41,7 @@ Meu objetivo é construir soluções bem estruturadas, aplicar boas práticas de
 <h2>Jornada acadêmica</h2>
 
 - [Currículo Lattes](http://lattes.cnpq.br/2675337079174878) 
-- [Confira o meu livro](https://www.researchgate.net/publication/394435437_Estrada_de_ideias_um_guia_de_como_aplicar_a_inteligencia_artificial_na_pesquisa_cientifica) - Estrada de ideias: um guia de como aplicar a inteligência artificial na pesquisa científica
+  - [Confira o meu livro](https://www.researchgate.net/publication/394435437_Estrada_de_ideias_um_guia_de_como_aplicar_a_inteligencia_artificial_na_pesquisa_cientifica) - Estrada de ideias: um guia de como aplicar a inteligência artificial na pesquisa científica
 
 
 
