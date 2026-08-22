@@ -31,11 +31,10 @@ Meu objetivo é construir soluções bem estruturadas, aplicar boas práticas de
 
 <h2> Aprendizados </h2>
   
-🌱 Atualmente estudando **Spring Framework** (Boot, Data e Security).
+🌱 Atualmente estudando **AWS**.
 
  Próximos passos
 -  MongoDB
--  AWS
 -  Angular
 
 
