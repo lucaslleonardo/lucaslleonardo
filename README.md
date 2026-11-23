@@ -8,14 +8,13 @@ Software Engineer Júnior
 </div>
 
 
-<h2>Sobre mim</h2> 
+## Sobre mim
 
-Sou formado em Sistemas para Internet e estou focado no desenvolvimento Back-end com Java e Spring Boot.
+Sou formado em Sistemas para Internet pelo Instituto Federal de São Paulo (IFSP) e tenho foco no desenvolvimento de software, com conhecimentos em Back-end utilizando Java e Spring Boot e em desenvolvimento Front-end com TypeScript.
 
-Atualmente, estudo e desenvolvo projetos para aprimorar meus conhecimentos em Spring Framework (Boot, Data e Security), APIs REST, Docker e bancos de dados relacionais.
+Atualmente, desenvolvo projetos para aprimorar minhas habilidades em desenvolvimento Full Stack, trabalhando com APIs REST, Spring Framework (Boot, Data e Security), bancos de dados relacionais, Docker e integração entre aplicações. Também venho explorando Python e Inteligência Artificial, desenvolvendo aplicações com LLMs e agentes de IA.
 
-Meu objetivo é construir soluções bem estruturadas, aplicar boas práticas de desenvolvimento e evoluir continuamente como desenvolvedor.
-
+Gosto de aprender na prática, transformando ideias em projetos e explorando novas tecnologias. Meu objetivo é construir soluções completas, aplicar boas práticas de desenvolvimento e evoluir continuamente como desenvolvedor Full Stack.
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -26,17 +25,6 @@ Meu objetivo é construir soluções bem estruturadas, aplicar boas práticas de
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" alt="JUnit" width="40" height="40"/>
 </p>
-
-
-
-<h2> Aprendizados </h2>
-  
-🌱 Atualmente estudando **AWS**.
-
- Próximos passos
--  MongoDB
--  Angular
-
 
 <h2>Jornada acadêmica</h2>
 
